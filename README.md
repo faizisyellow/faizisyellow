@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Hi there 👋
 
 ### 🚀 About Me:
-- 🌱 Currently learning **Golang**, backend systems, 
+- 🌱 Currently learning **Golang**, backend development, 
 - 🎵 Huge **Lizzy McAlpine** fan (her music is a vibe!).
 - 🔍 Always exploring new technologies and improving my skills.
 
