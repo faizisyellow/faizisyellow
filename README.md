@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 - 🎵 Huge **Lizzy McAlpine** fan.
 - 🔍 Always improving my skills.
 
-### 📊 GitHub Stats:
-![Faissal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizisyellow&show_icons=true&bg_color=4B2E83&title_color=B7A57A&text_color=FFFFFF&icon_color=B7A57A)
 
 
 ### 🔥 Most Used Languages:
