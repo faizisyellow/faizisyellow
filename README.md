@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there 👋
+
+### 🚀 About Me:
+- 🌱 Currently learning **Golang**, backend systems, 
+- 🎵 Huge **Lizzy McAlpine** fan (her music is a vibe!).
+- 🔍 Always exploring new technologies and improving my skills.
+
+### 📊 GitHub Stats:
+![Faissal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizisyellow&show_icons=true&theme=tokyonight)
+
+### 🔥 Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizisyellow&layout=compact&theme=tokyonight)
+
+
+
