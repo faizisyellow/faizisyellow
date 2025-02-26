@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 ## Hi there 👋
 
 ### 🚀 About Me:
-- 🌱 Currently learning **Go**, backend development, 
-- 🎵 Huge **Lizzy McAlpine** fan (her music is a vibe!).
+- 🌱 I’m currently learning **Go**, backend development, 
+- 🎵 Huge **Lizzy McAlpine** fan.
 - 🔍 Always improving my skills.
 
 ### 📊 GitHub Stats:
@@ -28,5 +28,6 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizisyellow&layout=compact&bg_color=4B2E83&title_color=B7A57A&text_color=FFFFFF&icon_color=B7A57A)
 
 
+[![Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=317pyp66cabjupaud5ilg2bghoxq&cover_image=true&theme=default)](https://open.spotify.com/user/317pyp66cabjupaud5ilg2bghoxq)
 
 
