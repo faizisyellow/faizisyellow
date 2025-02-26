@@ -16,15 +16,17 @@ Here are some ideas to get you started:
 ## Hi there 👋
 
 ### 🚀 About Me:
-- 🌱 Currently learning **Golang**, backend development, 
+- 🌱 Currently learning **Go**, backend development, 
 - 🎵 Huge **Lizzy McAlpine** fan (her music is a vibe!).
-- 🔍 Always exploring new technologies and improving my skills.
+- 🔍 Always improving my skills.
 
 ### 📊 GitHub Stats:
-![Faissal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizisyellow&show_icons=true&theme=tokyonight)
+![Faissal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizisyellow&show_icons=true&bg_color=4B2E83&title_color=B7A57A&text_color=FFFFFF&icon_color=B7A57A)
+
 
 ### 🔥 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizisyellow&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizisyellow&layout=compact&bg_color=4B2E83&title_color=B7A57A&text_color=FFFFFF&icon_color=B7A57A)
+
 
 
 
