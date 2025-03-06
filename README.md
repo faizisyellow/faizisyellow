@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 ## Hi there 👋
 
 ### 🚀 About Me:
-- 🌱 I’m currently learning **Go**, backend development, 
+- 🌱 I’m currently learning **Go**.
 - 🎵 Big fan of **Lizzy McAlpine**.
-- 🔍 Always improving my skills everyday.
 
 
 
