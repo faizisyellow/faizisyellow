@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Hi there 👋
 
 ### 🚀 About Me:
-- 🌱 I’m currently learning **Go**.
+- 🌱 I Love **Go**.
 - 🎵 Big fan of **Lizzy McAlpine**.
 
 
