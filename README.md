@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi, I'm Faissal Maulana 👋
+## Hi, I'm [Faissal Maulana](https://www.faissalmaulana.dev/) 👋
 I'm a software developer specializing in backend development
 
 ### 🚀 About Me:
