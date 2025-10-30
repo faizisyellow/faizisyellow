@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋
+## Hi, I'm Faissal Maulana 👋
+I'm a software developer specializing in backend development
 
 ### 🚀 About Me:
 - 🌱 I Love **Go**.
