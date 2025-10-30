@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I'm a software developer specializing in backend development
 
 ### 🚀 About Me:
-- 🌱 I Love **Go**.
+- ⚡ I Love **Go**.
 - 🎵 Big fan of **Lizzy McAlpine**.
 
 
